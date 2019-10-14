@@ -3,9 +3,6 @@ package me.kevsal.minecraft.cshalloween;
 import org.bukkit.Bukkit;
 import org.bukkit.event.EventHandler;
 import org.bukkit.plugin.java.JavaPlugin;
-import sun.plugin2.main.server.Plugin;
-
-import java.util.Random;
 
 public class Main extends JavaPlugin {
 
