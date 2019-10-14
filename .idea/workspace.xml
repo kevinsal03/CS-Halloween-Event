@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3696242e-55a2-4013-847d-a78e8d747675" name="Default Changelist" comment="">
+    <list default="true" id="3696242e-55a2-4013-847d-a78e8d747675" name="Default Changelist" comment="Maybe added Random blindness effect, now well it works is unknown, as this is all untested.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/kevsal/minecraft/cshalloween/TaskBlindness.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/kevsal/minecraft/cshalloween/EventJoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/kevsal/minecraft/cshalloween/EventJoin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/kevsal/minecraft/cshalloween/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/kevsal/minecraft/cshalloween/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +65,7 @@
       <updated>1571085906716</updated>
       <workItem from="1571085907950" duration="338000" />
       <workItem from="1571086503544" duration="111000" />
-      <workItem from="1571086811060" duration="1758000" />
+      <workItem from="1571086811060" duration="5301000" />
     </task>
     <task id="LOCAL-00001" summary="Fixed something">
       <created>1571086992997</created>
@@ -98,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571088521535</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="typo">
+      <created>1571088593572</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1571088593572</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +137,8 @@
     <MESSAGE value="send title (maybe?)&#10;This code is untested as I am not able to open MC over remote desktop." />
     <MESSAGE value="remove unused import" />
     <MESSAGE value="readme.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="readme.md" />
+    <MESSAGE value="typo" />
+    <MESSAGE value="Maybe added Random blindness effect, now well it works is unknown, as this is all untested." />
+    <option name="LAST_COMMIT_MESSAGE" value="Maybe added Random blindness effect, now well it works is unknown, as this is all untested." />
   </component>
 </project>
