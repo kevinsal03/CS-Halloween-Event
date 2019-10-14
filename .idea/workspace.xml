@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3696242e-55a2-4013-847d-a78e8d747675" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/kevsal/minecraft/cshalloween/EventJoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/kevsal/minecraft/cshalloween/EventJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +62,7 @@
       <updated>1571085906716</updated>
       <workItem from="1571085907950" duration="338000" />
       <workItem from="1571086503544" duration="111000" />
-      <workItem from="1571086811060" duration="1365000" />
+      <workItem from="1571086811060" duration="1678000" />
     </task>
     <task id="LOCAL-00001" summary="Fixed something">
       <created>1571086992997</created>
@@ -84,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571088110560</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="remove unused import">
+      <created>1571088200509</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1571088200509</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +118,7 @@
     <MESSAGE value="Fixed something" />
     <MESSAGE value="plugin.yml" />
     <MESSAGE value="send title (maybe?)&#10;This code is untested as I am not able to open MC over remote desktop." />
-    <option name="LAST_COMMIT_MESSAGE" value="send title (maybe?)&#10;This code is untested as I am not able to open MC over remote desktop." />
+    <MESSAGE value="remove unused import" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove unused import" />
   </component>
 </project>
