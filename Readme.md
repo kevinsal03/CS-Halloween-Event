@@ -2,7 +2,7 @@
 A custom plugin for ClubSurvival<ClubNetwork.us.to:25565>'s Halloween event to do some cool things.  
 
 Current features:
-* Makes sends Title on login
+* Maybe sends Title on login 
 
 TODO:
 * Random blindness effect
