@@ -1,0 +1,17 @@
+name: CS-Halloween-Event
+main: me.kevsal.minecraft.cshalloween.Main
+version: 1.0-SNAPSHOT
+author: Kevinsal03
+description: Halloween event for ClubSurvival
+
+commands:
+  event:
+    description: Version command
+    permission: cnsb.version
+    aliases: [server-event, halloween, halloween-event]
+    usage: /<command>
+
+permissions:
+  # Not used for anything ATM
+  cs.event.op:
+    default: op
