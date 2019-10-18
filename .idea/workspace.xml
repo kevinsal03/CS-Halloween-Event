@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3696242e-55a2-4013-847d-a78e8d747675" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/kevsal/minecraft/cshalloween/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/kevsal/minecraft/cshalloween/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/kevsal/minecraft/cshalloween/TaskBlindness.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/kevsal/minecraft/cshalloween/TaskBlindness.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +63,8 @@
       <updated>1571085906716</updated>
       <workItem from="1571085907950" duration="338000" />
       <workItem from="1571086503544" duration="111000" />
-      <workItem from="1571086811060" duration="5581000" />
+      <workItem from="1571086811060" duration="6211000" />
+      <workItem from="1571437817673" duration="1721000" />
     </task>
     <task id="LOCAL-00001" summary="Fixed something">
       <created>1571086992997</created>
@@ -120,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571092293196</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="hope this works lol">
+      <created>1571092419468</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1571092419468</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +160,7 @@
     <MESSAGE value="typo" />
     <MESSAGE value="Maybe added Random blindness effect, now well it works is unknown, as this is all untested." />
     <MESSAGE value="removed invalid import" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed invalid import" />
+    <MESSAGE value="hope this works lol" />
+    <option name="LAST_COMMIT_MESSAGE" value="hope this works lol" />
   </component>
 </project>

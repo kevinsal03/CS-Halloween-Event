@@ -12,7 +12,7 @@ public class Main extends JavaPlugin {
         Bukkit.getServer().getPluginManager().registerEvents(new EventJoin(), this); //register the login event
 
         //schedule repeating task
-        Bukkit.getScheduler().scheduleSyncRepeatingTask(this, new TaskBlindness(), 0L, 12000L);
+        Bukkit.getScheduler().scheduleSyncRepeatingTask(this, new TaskBlindness(), 0L, 12000L); //600L for debug - 12000L
     }
 
     @EventHandler

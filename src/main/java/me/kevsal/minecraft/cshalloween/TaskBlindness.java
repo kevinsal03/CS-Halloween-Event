@@ -22,7 +22,7 @@ public class TaskBlindness implements Runnable {
                 //do blindness for all
                 for (Player p : Bukkit.getOnlinePlayers()) {
                     p.addPotionEffect(new PotionEffect(PotionEffectType.BLINDNESS, 300, 1), true);
-                    p.sendTitle(null, ChatColor.RED + "All players have been randomly blinded!", 3, 70, 3);
+                    p.sendTitle("", ChatColor.RED + "All players have been randomly blinded!", 3, 70, 3);
                 }
             } else {
                 //get all online players as an array
