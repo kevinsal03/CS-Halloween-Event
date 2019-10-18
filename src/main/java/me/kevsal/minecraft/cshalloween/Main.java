@@ -13,6 +13,7 @@ public class Main extends JavaPlugin {
 
         //schedule repeating task
         Bukkit.getScheduler().scheduleSyncRepeatingTask(this, new TaskBlindness(), 0L, 12000L); //600L for debug - 12000L
+        Bukkit.getScheduler().scheduleSyncRepeatingTask(this, new TaskSound(), 0L, 8400L); //600L for debug - 8400L
     }
 
     @EventHandler

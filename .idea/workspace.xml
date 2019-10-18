@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3696242e-55a2-4013-847d-a78e8d747675" name="Default Changelist" comment="">
+    <list default="true" id="3696242e-55a2-4013-847d-a78e8d747675" name="Default Changelist" comment="Seems to be working now!">
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/kevsal/minecraft/cshalloween/TaskSound.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/kevsal/minecraft/cshalloween/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/kevsal/minecraft/cshalloween/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/kevsal/minecraft/cshalloween/TaskBlindness.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/kevsal/minecraft/cshalloween/TaskBlindness.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +64,7 @@
       <workItem from="1571085907950" duration="338000" />
       <workItem from="1571086503544" duration="111000" />
       <workItem from="1571086811060" duration="6211000" />
-      <workItem from="1571437817673" duration="1721000" />
+      <workItem from="1571437817673" duration="4408000" />
     </task>
     <task id="LOCAL-00001" summary="Fixed something">
       <created>1571086992997</created>
@@ -129,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571092419468</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Seems to be working now!">
+      <created>1571439582640</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1571439582640</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +168,7 @@
     <MESSAGE value="Maybe added Random blindness effect, now well it works is unknown, as this is all untested." />
     <MESSAGE value="removed invalid import" />
     <MESSAGE value="hope this works lol" />
-    <option name="LAST_COMMIT_MESSAGE" value="hope this works lol" />
+    <MESSAGE value="Seems to be working now!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Seems to be working now!" />
   </component>
 </project>
