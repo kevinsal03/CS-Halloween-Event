@@ -1,5 +1,5 @@
 ## ClubSurvival Halloween Event
-A custom plugin for ClubSurvival<ClubNetwork.us.to:25565>'s Halloween event to do some cool things.  
+A custom plugin for ClubSurvival <ClubNetwork.us.to:25565>'s Halloween event to do some cool things.  
 
 Current features:
 * sends Title on login
