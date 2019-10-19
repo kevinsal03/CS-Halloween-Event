@@ -11,9 +11,12 @@ public class Main extends JavaPlugin {
         //register events
         Bukkit.getServer().getPluginManager().registerEvents(new EventJoin(), this); //register the login event
 
-        //schedule repeating task
+        //schedule repeating tasks
         Bukkit.getScheduler().scheduleSyncRepeatingTask(this, new TaskBlindness(), 0L, 12000L); //600L for debug - 12000L
-        Bukkit.getScheduler().scheduleSyncRepeatingTask(this, new TaskSound(), 0L, 8400L); //600L for debug - 8400L
+        Bukkit.getScheduler().scheduleSyncRepeatingTask(this, new TaskSound(), 0L, 200L); //600L for debug - 8400L
+
+        getCommand("event").setExecutor(new CommandEventCmd());
+        //getCommand("disable-event").setExecutor(new CommandDisableEvent(this)); // Not gonna implement anymore
     }
 
     @EventHandler
