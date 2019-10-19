@@ -6,12 +6,14 @@ description: Halloween event for ClubSurvival
 
 commands:
   event:
-    description: Version command
-    permission: cnsb.version
+    description: Get event details
     aliases: [server-event, halloween, halloween-event]
     usage: /<command>
+#disable-event:
+#  description: Disable the plugin
+#  permission: cs.event.op
+#  usage: /<command>
 
 permissions:
-  # Not used for anything ATM
   cs.event.op:
     default: op
